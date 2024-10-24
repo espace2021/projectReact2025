@@ -15,7 +15,6 @@ function ElementsArticle(props) {
         console.log(error)
       })
   }
-
     return ( 
     <div className="row">
     {
